@@ -1,2 +1,2 @@
 # linkedin-scrapping
-Using selenium, we will be scrapping the names and updating them in MongoDB
+Using selenium, we will be scrapping names and updating them in MongoDB
